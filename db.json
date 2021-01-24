@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Budi",
+            "alamat": "Salatiga",
+            "umur": 25,
+            "nohp": "0854483945"
+        },
+        {
+            "id": 2,
+            "nama": "Jaya",
+            "alamat": "Semarang",
+            "umur": 25,
+            "nohp": "0854483945"
+        },
+        {
+            "id": 3,
+            "nama": "Harta",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "nohp": "0854483945"
+        }
+    ]
+}
